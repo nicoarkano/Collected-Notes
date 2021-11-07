@@ -11,14 +11,14 @@ export default function App({ Component, pageProps }) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
         {/* HTML Meta Tags */}
-        <title>Collected Notes</title>
+        <title>Nicolas Gimenez - Blog</title>
         <meta
           name="description"
-          content="The simplest, and most powerful note-taking blogging platform."
+          content="Blog acerca de tecnologia en general pero orientado principalmente a Blockchain. ¡Aprende Solidity con ejercicios sencillos y en Español!"
         />
         <meta
           name="image"
-          content="https://photos.collectednotes.com/embed.png"
+          content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2yVASZTjvnhpsbRfcI1ZOkIUYTV31OW4fA&usqp=CAU"
         />
         <meta name="keywords" content="notes, blog, note taking, simplicity." />
 
