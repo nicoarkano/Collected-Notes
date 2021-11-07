@@ -23,14 +23,14 @@ export default function App({ Component, pageProps }) {
         <meta name="keywords" content="notes, blog, note taking, simplicity." />
 
         {/* Google / Search Engine Tags */}
-        <meta itemProp="name" content="Collected Notes" />
+        <meta itemProp="name" content="Nicoarkano - Blog" />
         <meta
           itemProp="description"
-          content="The simplest, and most powerful note-taking blogging platform."
+          content="Blog acerca de tecnologia en general pero orientado principalmente a Blockchain. ¡Aprende Solidity con ejercicios sencillos y en Español!"
         />
         <meta
           itemProp="image"
-          content="https://photos.collectednotes.com/embed.png"
+          content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2yVASZTjvnhpsbRfcI1ZOkIUYTV31OW4fA&usqp=CAU"
         />
 
         {/* Facebook Meta Tags */}
@@ -43,7 +43,7 @@ export default function App({ Component, pageProps }) {
         />
         <meta
           property="og:image"
-          content="https://photos.collectednotes.com/embed.png"
+          content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2yVASZTjvnhpsbRfcI1ZOkIUYTV31OW4fA&usqp=CAU"
         />
 
         {/* Twitter Meta Tags */}
@@ -55,7 +55,7 @@ export default function App({ Component, pageProps }) {
         />
         <meta
           name="twitter:image"
-          content="https://photos.collectednotes.com/embed.png"
+          content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2yVASZTjvnhpsbRfcI1ZOkIUYTV31OW4fA&usqp=CAU"
         />
 
         <link
