@@ -34,12 +34,12 @@ export default function App({ Component, pageProps }) {
         />
 
         {/* Facebook Meta Tags */}
-        <meta property="og:url" content="https://collectednotes.com" />
+        <meta property="og:url" content="https://nicoarkano.ml"/>
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Collected Notes" />
+        <meta property="og:title" content="Nicoarkano - Blog" />
         <meta
           property="og:description"
-          content="The simplest, and most powerful note-taking blogging platform."
+          content="Blog acerca de tecnologia en general pero orientado principalmente a Blockchain. ¡Aprende Solidity con ejercicios sencillos y en Español!"
         />
         <meta
           property="og:image"
@@ -48,10 +48,10 @@ export default function App({ Component, pageProps }) {
 
         {/* Twitter Meta Tags */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Collected Notes" />
+        <meta name="twitter:title" content="Nicoarkano - Blog" />
         <meta
           name="twitter:description"
-          content="The simplest, and most powerful note-taking blogging platform."
+          content="Blog acerca de tecnologia en general pero orientado principalmente a Blockchain. ¡Aprende Solidity con ejercicios sencillos y en Español!"
         />
         <meta
           name="twitter:image"
